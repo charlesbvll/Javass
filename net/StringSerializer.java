@@ -1,4 +1,4 @@
-package ch.epfl.javass.net;
+package javass.net;
 
 import java.nio.charset.StandardCharsets;
 import java.util.Base64;
