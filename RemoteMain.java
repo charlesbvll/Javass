@@ -1,9 +1,9 @@
-package ch.epfl.javass;
+package javass;
 
 import java.io.IOException;
 
-import ch.epfl.javass.gui.GraphicalPlayerAdapter;
-import ch.epfl.javass.net.RemotePlayerServer;
+import javass.gui.GraphicalPlayerAdapter;
+import javass.net.RemotePlayerServer;
 import javafx.application.Application;
 import javafx.stage.Stage;
 
