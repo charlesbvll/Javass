@@ -1,9 +1,9 @@
-package ch.epfl.javass.gui;
+package javass.gui;
 
-import ch.epfl.javass.jass.Card;
-import ch.epfl.javass.jass.Card.Color;
-import ch.epfl.javass.jass.PlayerId;
-import ch.epfl.javass.jass.Trick;
+import javass.jass.Card;
+import javass.jass.Card.Color;
+import javass.jass.PlayerId;
+import javass.jass.Trick;
 import javafx.beans.property.ReadOnlyObjectProperty;
 import javafx.beans.property.SimpleObjectProperty;
 import javafx.collections.FXCollections;
