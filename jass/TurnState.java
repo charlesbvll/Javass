@@ -1,8 +1,8 @@
-package ch.epfl.javass.jass;
+package javass.jass;
 
-import ch.epfl.javass.jass.Card.Color;
+import javass.jass.Card.Color;
 
-import static ch.epfl.javass.Preconditions.*;
+import static javass.Preconditions.*;
 
 /**
  * The representation of the state of a turn during a game of Jass.
