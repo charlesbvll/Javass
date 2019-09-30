@@ -1,6 +1,6 @@
 package javass.jass;
 
-import static ch.epfl.javass.Preconditions.checkArgument;
+import static javass.Preconditions.checkArgument;
 import javass.bits.Bits32;
 import javass.bits.Bits64;
 
