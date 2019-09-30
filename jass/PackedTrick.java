@@ -1,9 +1,9 @@
-package ch.epfl.javass.jass;
+package javass.jass;
 
-import ch.epfl.javass.jass.Card.Color;
-import ch.epfl.javass.jass.Card.Rank;
-import ch.epfl.javass.bits.Bits32;
-import static ch.epfl.javass.Preconditions.*;
+import javass.jass.Card.Color;
+import javass.jass.Card.Rank;
+import javass.bits.Bits32;
+import static javass.Preconditions.*;
 
 /**
  * The representation of a trick of a jass game in a packed form that is as an int.
