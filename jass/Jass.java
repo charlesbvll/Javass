@@ -1,4 +1,4 @@
-package ch.epfl.javass.jass;
+package javass.jass;
 
 /**
  * An interface containing the main variables defining a Jass game
