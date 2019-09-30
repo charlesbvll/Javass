@@ -1,4 +1,4 @@
-package ch.epfl.javass.jass;
+package javass.jass;
 
 import java.util.ArrayList;
 import java.util.Collections;
@@ -8,8 +8,8 @@ import java.util.List;
 import java.util.Map;
 import java.util.Random;
 
-import ch.epfl.javass.jass.Card.Color;
-import ch.epfl.javass.jass.Card.Rank;
+import javass.jass.Card.Color;
+import javass.jass.Card.Rank;
 
 /**
  * The representation of a game of Jass.
