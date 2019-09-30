@@ -1,4 +1,4 @@
-package ch.epfl.javass.jass;
+package javass.jass;
 
 import java.util.Arrays;
 import java.util.Collections;
