@@ -1,8 +1,8 @@
-package ch.epfl.javass.jass;
+package javass.jass;
 
 import java.util.Map;
 
-import ch.epfl.javass.jass.Card.Color;
+import javass.jass.Card.Color;
 
 /**
  * An interface that represent a player of a game of Jass.
