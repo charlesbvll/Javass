@@ -1,10 +1,10 @@
-package ch.epfl.javass.gui;
+package javass.gui;
 
 import java.util.Collections;
 import java.util.HashMap;
 import java.util.Map;
 
-import ch.epfl.javass.jass.TeamId;
+import javass.jass.TeamId;
 import javafx.beans.property.*;
 
 /**
