@@ -1,6 +1,6 @@
-package ch.epfl.javass.jass;
+package javass.jass;
 
-import static ch.epfl.javass.Preconditions.*;
+import static javass.Preconditions.*;
 
 /**
  * 
