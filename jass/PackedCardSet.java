@@ -1,8 +1,8 @@
-package ch.epfl.javass.jass;
+package javass.jass;
 
-import ch.epfl.javass.jass.Card.Rank;
+import javass.jass.Card.Rank;
 
-import static ch.epfl.javass.bits.Bits64.mask;
+import static javass.bits.Bits64.mask;
 
 import java.util.StringJoiner;
 
