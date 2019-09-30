@@ -1,8 +1,8 @@
-package ch.epfl.javass.jass;
+package javass.jass;
 
-import ch.epfl.javass.bits.Bits32;
-import ch.epfl.javass.jass.Card.Color;
-import ch.epfl.javass.jass.Card.Rank;
+import javass.bits.Bits32;
+import javass.jass.Card.Color;
+import javass.jass.Card.Rank;
 
 /**
  * Allows us to manipulate cards from a Jass game packed in an integer.
