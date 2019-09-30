@@ -1,4 +1,4 @@
-package ch.epfl.javass.net;
+package javass.net;
 
 /**
  * Enumeration of the different commands for the client-server communication.
