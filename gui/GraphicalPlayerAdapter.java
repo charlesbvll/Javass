@@ -1,4 +1,4 @@
-package ch.epfl.javass.gui;
+package javass.gui;
 
 import java.util.Map;
 import java.util.concurrent.ArrayBlockingQueue;
@@ -6,15 +6,15 @@ import java.util.concurrent.BlockingQueue;
 
 import javafx.application.Platform;
 
-import ch.epfl.javass.jass.Card;
-import ch.epfl.javass.jass.CardSet;
-import ch.epfl.javass.jass.Player;
-import ch.epfl.javass.jass.PlayerId;
-import ch.epfl.javass.jass.Score;
-import ch.epfl.javass.jass.TeamId;
-import ch.epfl.javass.jass.Trick;
-import ch.epfl.javass.jass.TurnState;
-import ch.epfl.javass.jass.Card.Color;
+import javass.jass.Card;
+import javass.jass.CardSet;
+import javass.jass.Player;
+import javass.jass.PlayerId;
+import javass.jass.Score;
+import javass.jass.TeamId;
+import javass.jass.Trick;
+import javass.jass.TurnState;
+import javass.jass.Card.Color;
 
 /**
  * A {@link Player} that has a graphical interface.
