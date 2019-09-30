@@ -1,4 +1,4 @@
-package ch.epfl.javass.net;
+package javass.net;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
@@ -11,16 +11,16 @@ import java.net.UnknownHostException;
 import java.nio.charset.StandardCharsets;
 import java.util.Map;
 
-import ch.epfl.javass.jass.Card;
-import ch.epfl.javass.jass.CardSet;
-import ch.epfl.javass.jass.Player;
-import ch.epfl.javass.jass.PlayerId;
-import ch.epfl.javass.jass.Score;
-import ch.epfl.javass.jass.TeamId;
-import ch.epfl.javass.jass.Trick;
-import ch.epfl.javass.jass.TurnState;
-import ch.epfl.javass.jass.Card.Color;
-import static ch.epfl.javass.net.StringSerializer.*;
+import javass.jass.Card;
+import javass.jass.CardSet;
+import javass.jass.Player;
+import javass.jass.PlayerId;
+import javass.jass.Score;
+import javass.jass.TeamId;
+import javass.jass.Trick;
+import javass.jass.TurnState;
+import javass.jass.Card.Color;
+import static javass.net.StringSerializer.*;
 
 /**
  * A player that plays on a remote server.
