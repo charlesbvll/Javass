@@ -1,8 +1,8 @@
-package ch.epfl.javass.jass;
+package javass.jass;
 
 import java.util.List;
 
-import static ch.epfl.javass.Preconditions.*;
+import static javass.Preconditions.*;
 
 /**
  * The representation of a {@link CardSet} by a list of {@link Card}.
