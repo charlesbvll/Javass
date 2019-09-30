@@ -1,8 +1,8 @@
-package ch.epfl.javass.jass;
+package javass.jass;
 
 import static ch.epfl.javass.Preconditions.checkArgument;
-import ch.epfl.javass.bits.Bits32;
-import ch.epfl.javass.bits.Bits64;
+import javass.bits.Bits32;
+import javass.bits.Bits64;
 
 /**
  * The representation of a score of the game of Jass in a packed form (as a long).
