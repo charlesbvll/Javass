@@ -1,4 +1,4 @@
-package ch.epfl.javass.gui;
+package javass.gui;
 
 import java.util.Map;
 import java.util.concurrent.BlockingQueue;
@@ -20,12 +20,12 @@ import javafx.scene.image.ImageView;
 import javafx.scene.layout.BorderPane;
 import javafx.scene.layout.GridPane;
 import javafx.scene.layout.HBox;
-import ch.epfl.javass.jass.Card;
-import ch.epfl.javass.jass.Card.Color;
-import ch.epfl.javass.jass.Card.Rank;
-import ch.epfl.javass.jass.Jass;
-import ch.epfl.javass.jass.PlayerId;
-import ch.epfl.javass.jass.TeamId;
+import javass.jass.Card;
+import javass.jass.Card.Color;
+import javass.jass.Card.Rank;
+import javass.jass.Jass;
+import javass.jass.PlayerId;
+import javass.jass.TeamId;
 import javafx.scene.layout.Pane;
 import javafx.scene.layout.StackPane;
 import javafx.scene.layout.VBox;
