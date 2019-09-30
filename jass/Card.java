@@ -1,10 +1,10 @@
-package ch.epfl.javass.jass;
+package javass.jass;
 
 import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
 
-import static ch.epfl.javass.Preconditions.*;
+import static javass.Preconditions.*;
 
 /**
  * The representation of a {@link Card} by a {@link Color} and a {@link Rank}.
