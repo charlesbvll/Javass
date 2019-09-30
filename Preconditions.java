@@ -1,4 +1,4 @@
-package ch.epfl.javass;
+package javass;
 
 /**
  * Gives a set of function to test conditions.
