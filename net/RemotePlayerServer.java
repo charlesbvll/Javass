@@ -1,4 +1,4 @@
-package ch.epfl.javass.net;
+package javass.net;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
@@ -10,17 +10,17 @@ import java.net.Socket;
 import java.nio.charset.StandardCharsets;
 import java.util.HashMap;
 import java.util.Map;
-import static ch.epfl.javass.net.StringSerializer.*;
+import static javass.net.StringSerializer.*;
 
-import ch.epfl.javass.jass.Card;
-import ch.epfl.javass.jass.Card.Color;
-import ch.epfl.javass.jass.CardSet;
-import ch.epfl.javass.jass.Player;
-import ch.epfl.javass.jass.PlayerId;
-import ch.epfl.javass.jass.Score;
-import ch.epfl.javass.jass.TeamId;
-import ch.epfl.javass.jass.Trick;
-import ch.epfl.javass.jass.TurnState;
+import javass.jass.Card;
+import javass.jass.Card.Color;
+import javass.jass.CardSet;
+import javass.jass.Player;
+import javass.jass.PlayerId;
+import javass.jass.Score;
+import javass.jass.TeamId;
+import javass.jass.Trick;
+import javass.jass.TurnState;
 
 /**
  * Connects to a remote client and executes functions according to the data
