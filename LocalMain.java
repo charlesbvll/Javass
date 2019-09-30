@@ -1,17 +1,17 @@
-package ch.epfl.javass;
+package javass;
 
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 import java.util.Random;
 
-import ch.epfl.javass.gui.GraphicalPlayerAdapter;
-import ch.epfl.javass.jass.JassGame;
-import ch.epfl.javass.jass.MctsPlayer;
-import ch.epfl.javass.jass.PacedPlayer;
-import ch.epfl.javass.jass.Player;
-import ch.epfl.javass.jass.PlayerId;
-import ch.epfl.javass.net.RemotePlayerClient;
+import javass.gui.GraphicalPlayerAdapter;
+import javass.jass.JassGame;
+import javass.jass.MctsPlayer;
+import javass.jass.PacedPlayer;
+import javass.jass.Player;
+import javass.jass.PlayerId;
+import javass.net.RemotePlayerClient;
 import javafx.application.Application;
 import javafx.stage.Stage;
 
