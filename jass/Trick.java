@@ -1,8 +1,8 @@
-package ch.epfl.javass.jass;
+package javass.jass;
 
-import static ch.epfl.javass.Preconditions.*;
+import static javass.Preconditions.*;
 
-import ch.epfl.javass.jass.Card.Color;
+import javass.jass.Card.Color;
 
 /**
  * The representation of a trick of a jass game.
