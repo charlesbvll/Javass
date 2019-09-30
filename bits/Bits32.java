@@ -1,6 +1,6 @@
-package ch.epfl.javass.bits;
+package javass.bits;
 
-import static ch.epfl.javass.Preconditions.*;
+import static javass.Preconditions.*;
 
 public final class Bits32 {
     private Bits32() {
