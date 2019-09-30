@@ -1,10 +1,10 @@
-package ch.epfl.javass.gui;
+package javass.gui;
 
 import java.util.Arrays;
 
-import ch.epfl.javass.jass.Card;
-import ch.epfl.javass.jass.CardSet;
-import ch.epfl.javass.jass.Jass;
+import javass.jass.Card;
+import javass.jass.CardSet;
+import javass.jass.Jass;
 import javafx.collections.FXCollections;
 import javafx.collections.ObservableList;
 import javafx.collections.ObservableSet;
