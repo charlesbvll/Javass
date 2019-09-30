@@ -1,6 +1,6 @@
-package ch.epfl.javass.jass;
+package javass.jass;
 
-import static ch.epfl.javass.Preconditions.checkArgument;
+import static javass.Preconditions.checkArgument;
 
 import java.util.ArrayList;
 import java.util.SplittableRandom;
